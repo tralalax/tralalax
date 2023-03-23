@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋 I'm Tralala ⚡
+
+#### Thanks for coming to my profile, I hope you find my projects useful ! ✨
+
+### About me :
+- living in France
+- speaking En/Fr
+- Currently learning C#
+- Still learning new things
+- Contact me on discord if you need
+- Open to collaboration
 
 <!--
 **tralalax/tralalax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
