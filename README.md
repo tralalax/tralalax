@@ -7,7 +7,7 @@
 - 🗣️ Speaking En / Fr
 - 💫 Currently learning Rust & Svelte
 - 🔭 Always learning new things
-- 🤖 Contact me on discord if you need : ```tralala#7229```
+- 🤖 Contact me on discord if you need : ```tralala74```
 - 👯 Open to collaboration
 
 ### Languages I Use :
